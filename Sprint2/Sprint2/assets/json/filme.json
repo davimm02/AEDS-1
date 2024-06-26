@@ -1,0 +1,47 @@
+{
+    "filme": {
+      "titulo": "Invocação do Mal",
+      "imagem": "assets/img/invocacaodomal.png",
+      "diretor": "James Wan",
+      "lancamento": "13/09/2013",
+        "imdb": "7,5/10",
+        "rotten": "86%",
+      "categoria": ["Terror", "Mistério"],
+      "sinopse": "Harrisville, Estados Unidos. Um casal (Ron Livinston e Lili Taylor) muda para uma casa nova ao lado de suas cinco filhas. Inexplicavelmente, estranhos acontecimentos começam a assustar as crianças, o pai e, principalmente, a mãe. Preocupada com algumas manchas que aparecem em seu corpo e com uma sequência de sustos que levou, ela decide procurar um famoso casal de investigadores paranormais (Patrick Wilson e Vera Farmiga), mas eles não aceitam o convite, acreditando ser somente mais um engano de pessoas apavoradas com canos que fazem barulhos durante a noite ou coisas do gênero. Porém, quando eles aceitam fazer uma visita ao local, descobrem que algo muito poderoso e do mal reside ali. Agora, eles precisam descobrir o que é e o porquê daquilo tudo acontecendo com os membros daquela família. É quando o passado começa a revelar uma entidade demoníaca querendo continuar sua trajetória de maldades.",
+      "atores": [
+        {
+          "nome": "Vera Farmiga",
+          "link": "atores.html"
+        },
+        {
+          "nome": "Patrick Wilson",
+          "link": "atores.html"
+        },
+        {
+          "nome": "Ron Livingston",
+          "link": "atores.html"
+        }
+      ],
+      "trailers": [
+        {
+          "nome":"Trailer 1",
+          "link":"https://www.youtube.com/watch?v=GQrrXceHn2E"
+        },
+        {
+          "nome":"Trailer 2",
+          "link":"https://www.youtube.com/watch?v=eCzSHOfldQM"
+        }
+      ],
+      "streaming": [
+        {
+          "nome": "Max",
+          "link": "[URL do filme no streaming]"
+        },
+        {
+          "nome": "Amazon Prime Video",
+          "link": "[URL do filme no streaming]"
+        }
+      ]
+    }
+  }
+  

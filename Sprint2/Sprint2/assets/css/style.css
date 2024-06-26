@@ -1,0 +1,179 @@
+body {
+    background-color: #181818;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 20px;
+    background-color: #000;
+    height: 65px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    height: 30px;
+    margin-left: 219px;
+    margin-right: 12px;
+  }
+  
+  .logo h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .barra-pesquisa {
+    flex-grow: 1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 300px;
+    position: relative;
+    align-self: center;
+  }
+  
+  .barra-pesquisa input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    background-color: #333;
+    color: white;
+    padding-left: 40px;
+  }
+  
+  .usuario {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    margin-right: 20px;
+  }
+  
+  .usuario img {
+    height: 28px;
+    width: 28px;
+    border-radius: 0;
+    margin-right: 100px;
+    margin-left: 12px;
+  }
+  
+  .faq {
+    display: flex;
+    height: 33px;
+    width: 33px;
+    margin-left: -80px;
+    margin-right: 40px;
+  }
+  
+  main {
+    display: flex;
+    padding: 20px;
+    margin-left: 219px;
+    margin-right: 117px;
+  }
+  
+  .detalhes {
+    margin-right: 354px;
+    color: #DADADA;
+    flex-grow: 1;
+  }
+  
+  .detalhes h1 {
+    color: white;
+    margin-top: 5px;
+  }
+  
+  .cargo {
+    text-align: left;
+    margin-top: -23px;
+    font-size: 27px;
+  }
+  
+  .ator {
+    width: 250px;
+    margin-right: 20px;
+  }
+  
+  .ator img {
+    width: 237px;
+    height: 337px;
+    border-radius: 10px;
+  }
+  
+  .ator-info {
+    margin-top: 10px;
+  }
+  
+  .ator-info p {
+    margin: 5px 0;
+    padding: 10px 0;
+    line-height: 28px;
+  }
+  
+  .ator-info br {
+    color: #DADADA;
+  }
+  
+  .redes-sociais {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 5px;
+    height: 5px;
+  }
+  
+  .redes-sociais a {
+    font-size: 24px;
+    text-decoration: none;
+  }
+  
+  .redes-sociais a img {
+    width: 34px;
+    height: 34px;
+    border-radius: 0;
+  }
+  
+  .filmes {
+    display: flex;
+    gap: 15px;
+    overflow-x: auto;
+    padding: 10px 0;
+  }
+  
+  .filmes img {
+    width: 200px;
+    height: 285px;
+    border-radius: 10px;
+  }
+  
+  .titulo {
+    color: white;
+    margin-top: 310px;
+  }
+  
+  .roxo {
+    color: #9270DB
+  }
+  
+  .oculto {
+    display: none;
+  }
+  
+  .branco {
+    color: #ffffff;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 13px;
+  }
